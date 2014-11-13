@@ -3,6 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ro.teamnet.z2h.web</groupId>
   <artifactId>web-container</artifactId>
+  <artifactId>z2h-jsp</artifactId>
   <packaging>war</packaging>
   <version>1.0</version>
   <name>web-container Maven Webapp</name>
